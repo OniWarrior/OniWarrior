@@ -15,7 +15,7 @@ Back End Technologies:
  - Node.js, Express, Knex
  - Helmet, CORS, REST
  - Heroku
- -
+ 
 Testing Technologies:
  - Jest, React Testing Library
 

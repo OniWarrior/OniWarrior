@@ -10,6 +10,7 @@ Front End Technologies:
  - BootStrap
  - Yup
  - Responsive Web Design, Netlify, Vercel
+ 
 Back End Technologies:
  - Node.js, Express, Knex
  - Helmet, CORS, REST

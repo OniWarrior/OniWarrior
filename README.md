@@ -32,6 +32,7 @@ Full-stack rental simulation platform built with React, Redux, Node.js, Express,
 ### **Scribble Stadium**
 Frontend project built during a full-stack bootcamp. Lead Frontend Engineer for a writing platform built for a startup.
 *Backend repo available upon request (private due to stakeholders)*
+
 ---
 
 ## 🌍 Open to Opportunities

@@ -2,7 +2,7 @@
 **Junior Full Stack / Backend Developer**  
 **Node.js • Express • PostgreSQL • React • JavaScript**
 
-I'm a Computer Science graduate with hands-on experience building full-stack applications, REST APIs, and database-driven systems. My focus is backend and full-stack development using JavaScript/TypeScript with Node.js, Express, PostgreSQL, and React.
+I'm a Computer Science graduate with hands-on experience building full-stack applications, REST APIs, and database-driven systems. My focus is backend and full-stack development using JavaScript with Node.js, Express, PostgreSQL, and React.
 
 I enjoy designing clean backend architectures, modeling data, and implementing secure authentication flows. I also have long-term interests in robotics (learning ROS 2) and quantum computing.
 

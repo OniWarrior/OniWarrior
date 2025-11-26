@@ -20,6 +20,7 @@ I enjoy designing clean backend architectures, modeling data, and implementing s
 
 ## 🚀 Featured Projects
 
+
 ### **NTXIA Internal Document Management System (Capstone)**
 Backend-focused system with secure role-based access, JWT authentication, Swagger documentation, and a PostgreSQL database.
 *Backend repo available upon request (private due to stakeholders)*
@@ -30,7 +31,7 @@ Full-stack rental simulation platform built with React, Redux, Node.js, Express,
 
 ### **Scribble Stadium**
 Frontend project built during a full-stack bootcamp. Lead Frontend Engineer for a writing platform built for a startup.
-
+*Backend repo available upon request (private due to stakeholders)*
 ---
 
 ## 🌍 Open to Opportunities

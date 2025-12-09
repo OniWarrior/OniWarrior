@@ -38,10 +38,11 @@ Frontend project built during a full-stack bootcamp. Lead Frontend Engineer for 
 ## 🌍 Open to Opportunities
 I am open to junior roles in:
 
-🇸🇪 Sweden  
-🇳🇴 Norway  
-🇩🇰 Denmark  
-🇩🇪 Germany  
+🇸🇪  Sweden  
+🇳🇴  Norway  
+🇩🇰  Denmark  
+🇩🇪  Germany 
+𝖴𝖲𝖠 United States of America
 
 **EU Blue Card eligible** (degree officially recognized by ZAB).
 

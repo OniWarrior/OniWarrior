@@ -41,7 +41,7 @@ I am open to junior roles in:
 🇸🇪  Sweden  
 🇳🇴  Norway  
 🇩🇰  Denmark  
-🇩🇪  Germany 
+🇩🇪  Germany<br>
 𝖴𝖲𝖠 United States of America
 
 **EU Blue Card eligible** (degree officially recognized by ZAB).

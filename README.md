@@ -27,7 +27,7 @@ Backend-focused system with secure role-based access, JWT authentication, Swagge
 
 ### **Rent My Drones**
 Full-stack rental simulation platform built with React, Redux, Node.js, Express, and PostgreSQL.  
-*Currently refactoring API logic and updating file structure — updated version coming soon.*
+Tarrant County Community College capstone that has been completely refactored with updated codebase.
 
 ### **Scribble Stadium**
 Frontend project built during a full-stack bootcamp. Lead Frontend Engineer for a writing platform built for a startup.

@@ -1,5 +1,5 @@
 # Hi, I'm Stephen 👋  
-**Junior Full Stack / Backend Developer**  
+**Software Engineer**  
 **Node.js • Express • PostgreSQL • React • JavaScript**
 
 I'm a Computer Science graduate with hands-on experience building full-stack applications, REST APIs, and database-driven systems. My focus is backend and full-stack development using JavaScript with Node.js, Express, PostgreSQL, and React.
